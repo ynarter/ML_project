@@ -5,7 +5,7 @@ Team project for the CS233 Introduction to Machine Learning course in EPFL. The 
 ## Milestone 1
 - We aimed to apply the machine learning techniques
 we learned in the course to a subset of the Stanford Dogs
-dataset. Our objective is first to accurately identify the breed
+dataset. Our objective was first to accurately identify the breed
 of dogs depicted in images, and second, to determine the
 precise center point of each dog within the image. 
 
@@ -14,8 +14,8 @@ regression for regression and classification tasks
 respectively, as well as k-nearest neighbors (KNN) for both
 tasks. 
 
-- We evaluate the performance of these methods using
-appropriate evaluation metrics and present our findings in
+- We evaluated the performance of these methods using
+appropriate evaluation metrics and presented our findings in
 the [report](https://github.com/ynarter/ML_project/blob/main/MS1/report.pdf).
 
 ## Milestone 2
