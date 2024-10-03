@@ -1,4 +1,4 @@
-# Introduction to Machine Learning Term Project.
+# Introduction to Machine Learning Term Project
 
 Team project for the CS233 Introduction to Machine Learning course in EPFL. The project consists of two milestones.
 
